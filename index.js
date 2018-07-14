@@ -10,3 +10,5 @@ function overwriteBestCustomer() {
 }
 
 const leastFavoriteCustomer = 'sam';
+
+function changeLeastFavoriteCustomer
